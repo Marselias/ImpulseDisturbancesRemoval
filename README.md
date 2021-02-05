@@ -1,3 +1,7 @@
 # ImpulseDisturbancesRemoval
 
-Impulse Disturbances Removal using regression.
+Impulse Disturbances Removal using regression technique.
+
+## Requirements
+
+matplotlib, numpy, soundfile
